@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Exportacion>
+<!--<Admite cualquier cantidad de soluciones mientras siga el mismo esquema>-->
+<!--<Ingresar UNIQUE NAME de la solucion>-->
+<Solucion>SolutionUNIQUENAME</Solucion>
+<!--<Solucion>DUPLICAR_Y_CAMBIAR_ESTE_TEXTO_POR_EL_UNIQUE_NAME</Solucion> -->
+</Exportacion>
